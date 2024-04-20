@@ -1,7 +1,5 @@
 # JSON_Technology_Dataset_-Data_Analysis
 
-# Project: JSON Data Analysis
-
 ## Overview
 This project focuses on analyzing JSON data retrieved from a dataset containing information about books. The analysis involves data exploration, cleaning, manipulation, and visualization using Python and various libraries like Pandas, Matplotlib, and Seaborn.
 
